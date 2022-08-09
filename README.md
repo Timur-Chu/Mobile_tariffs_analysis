@@ -1,4 +1,4 @@
-# Mobile_tariffs_analysis
+# mobile_tariffs_analysis
 Определение перспективного тарифа для телеком-компании
 
 ## Описание проекта
